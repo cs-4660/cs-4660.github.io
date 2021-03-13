@@ -37,7 +37,7 @@ DoMi.intro.prototype = {
         game.load.image('lessonEnd', 'images/intro/lesson-ending.png');
 
         // Introduction Audio
-        game.load.audio('lesson1LetterA', 'audio/intro/This is the letter A.mp3');
+        game.load.audio('lesson1LetterA', 'audio/intro/This is The letter A.mp3');
         game.load.audio('lesson1BigA', 'audio/intro/This is a Big A.mp3');
         game.load.audio('lesson1LittleA', 'audio/intro/This is Little A.mp3');
         game.load.audio('lesson1TwoSounds', 'audio/intro/A can_2 sounds.mp3');
